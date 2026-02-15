@@ -605,24 +605,3 @@ ver  % Check installed toolboxes
 T = readtable('Cleaned_Queue_Dataset.csv');
 disp(T.Properties.VariableNames)
 ```
-
----
-
-## Contact & Support
-
-For questions or issues:
-- 📧 Email: your.email@domain.com
-- 🐙 GitHub Issues: [Open an issue](https://github.com/yourusername/Queue_management_system/issues)
-- 📖 Documentation: See `code.matlab/` comments for detailed function docs
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Last Updated:** February 15, 2024  
-**Version:** 1.0  
-**Maintained by:** Your Name
